@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 use App\Models\Peminjaman;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
-use illuminate\Support\carbon;
+use Illuminate\Support\carbon;
 
 class PeminjamanController extends Controller
 {
